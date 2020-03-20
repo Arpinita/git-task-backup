@@ -18,3 +18,5 @@ Concerned itself with me, me and nothing else at all.
 
 
 Something for commit to the feature branch -----1
+
+Something for commit to the feature branch -----2
