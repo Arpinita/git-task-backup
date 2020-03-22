@@ -1,0 +1,76 @@
+[33mcommit 2ac863980dbf12263a5a9260738612677ddb065f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: session1[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 15:40:30 2020 +0400
+
+    commit to the pursuit.txt file
+
+[33mcommit f295930c09cf7008ccfebda0c2c6b8e779854fef[m
+Merge: eed2481 94a324c
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 15:25:05 2020 +0400
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit eed2481490fe91af8a84e6f5158c6e327278b58c[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 15:01:58 2020 +0400
+
+    push to master
+
+[33mcommit 541294f0a909744886c4f62c518503395c894b4d[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 15:00:15 2020 +0400
+
+    commit arrows.txt to master
+
+[33mcommit 94a324ca7962fcbabc7724632bc17e394a2ba6e8[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 14:26:47 2020 +0400
+
+    commit arrows.txt to the feature branch
+
+[33mcommit 87ffbfaa63181ce324a23376ae0a4ec0e9a17d80[m
+Merge: 6774a27 b311bfb
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 14:11:35 2020 +0400
+
+    merge branch
+
+[33mcommit b311bfbba3e123b6c40d3bbfe23a21514987f015[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 01:57:07 2020 +0400
+
+    second commit to the feature branch
+
+[33mcommit 9ca1813f51a930187e4de9fd4b7c7d435c9326fe[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 01:52:55 2020 +0400
+
+    first commit to the feature branch
+
+[33mcommit 6774a27aedbef1664638f259e621b8262f0fee17[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Sat Mar 21 01:30:01 2020 +0400
+
+    add to the project gitignore
+
+[33mcommit 0c022ef1e717eaf47ed7784c61d8de1d19e05d85[m
+Author: Arpinita <arpine.karapetyan87@gmail.com>
+Date:   Thu Mar 19 14:50:56 2020 +0400
+
+    finish my song
+
+[33mcommit 977bd966a7b568c1fdb9340fc87aff3a45aa6bb2[m
+Author: Arpine Karapetyan <arpine_karapetyan@epam.com>
+Date:   Thu Mar 19 14:33:29 2020 +0400
+
+    add first half of my favorite song
+
+[33mcommit d3343552af51a2fd6bb4fcd76ead7a3dfd78f0d5[m
+Author: Arpinita <arpine.karapetyan87@gmail.com>
+Date:   Wed Mar 18 15:18:53 2020 +0400
+
+    Initial commit
